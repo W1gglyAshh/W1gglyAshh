@@ -1,14 +1,10 @@
-- 👋 Hi, I’m @WigglyAshh1028
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# this is W1gglyAshh
+### the user name was come from XBOX profile's random name generator
+- i hate python
+- i hate java
+- i hate capitalizing names in my code
+- i prefer create games from scratch instead of game engine
 
-
-This guy is too lazy to write this...
-<!---
-WigglyAshh1028/WigglyAshh1028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- i've been started to learn coding since i was 12
+- really like it but my parents can't understand. they seems to think i HAVE to be a lot more better in math if i really want to be coding when i grow up.
+- love unix-like systems but linux is suck at school while a mac with better performance is too expensive
